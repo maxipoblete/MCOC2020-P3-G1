@@ -36,3 +36,13 @@
 ![alt text](https://github.com/maxipoblete/MCOC2020-P3-G1/blob/main/Entrega%205/Informe/P3%20_Pa%CC%81gina_12.png)
 ![alt text](https://github.com/maxipoblete/MCOC2020-P3-G1/blob/main/Entrega%205/Ejemplo_caso_5.gif)
 
+![alt text](https://github.com/maxipoblete/MCOC2020-P3-G1/blob/main/Entrega%205/Informe/P3%20_Pa%CC%81gina_13.png)
+![alt text](https://github.com/maxipoblete/MCOC2020-P3-G1/blob/main/Entrega%205/Informe/P3%20_Pa%CC%81gina_14.png)
+![alt text](https://github.com/maxipoblete/MCOC2020-P3-G1/blob/main/Entrega%205/Ejemplo_caso_6.gif)
+
+![alt text](https://github.com/maxipoblete/MCOC2020-P3-G1/blob/main/Entrega%205/Informe/P3%20_Pa%CC%81gina_15.png)
+![alt text](https://github.com/maxipoblete/MCOC2020-P3-G1/blob/main/Entrega%205/Informe/P3%20_Pa%CC%81gina_16.png)
+![alt text](https://github.com/maxipoblete/MCOC2020-P3-G1/blob/main/Entrega%205/Ejemplo_caso_7.gif)
+
+![alt text](https://github.com/maxipoblete/MCOC2020-P3-G1/blob/main/Entrega%205/Informe/P3%20_Pa%CC%81gina_17.png)
+![alt text](https://github.com/maxipoblete/MCOC2020-P3-G1/blob/main/Entrega%205/Informe/P3%20_Pa%CC%81gina_18.png)
