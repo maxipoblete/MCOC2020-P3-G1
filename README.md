@@ -46,3 +46,16 @@
 
 ![alt text](https://github.com/maxipoblete/MCOC2020-P3-G1/blob/main/Entrega%205/Informe/P3%20_Pa%CC%81gina_17.png)
 ![alt text](https://github.com/maxipoblete/MCOC2020-P3-G1/blob/main/Entrega%205/Informe/P3%20_Pa%CC%81gina_18.png)
+
+## ENTREGA 7
+
+![alt text](https://github.com/maxipoblete/MCOC2020-P3-G1/blob/main/Entrega%207/P3%20_Pa%CC%81gina_1.png)
+![alt text](https://github.com/maxipoblete/MCOC2020-P3-G1/blob/main/Entrega%207/P3%20_Pa%CC%81gina_2.png)
+![alt text](https://github.com/maxipoblete/MCOC2020-P3-G1/blob/main/Entrega%207/P3%20_Pa%CC%81gina_3.png)
+![alt text](https://github.com/maxipoblete/MCOC2020-P3-G1/blob/main/Entrega%207/P3%20_Pa%CC%81gina_4.png)
+![alt text](https://github.com/maxipoblete/MCOC2020-P3-G1/blob/main/Entrega%207/P3%20_Pa%CC%81gina_5.png)
+
+
+
+En esta entrega 7 el codigo fue revisado y corre perfecto, pero la limitante es el tiempo y nos fallo el cluster para poder dejarlo corriendo, ninguno de nuestros computadores fue capaz de ejecutar el codigo en un tiempo razonable y la minima discretizacion para los Nx,Ny,Nz fue hecha por centimetros por facilidad de codigo y ubicacion de los puntos solicitados. Los cortes del centro del modelo en los 3 ejes del modelo tambien eran posibles realizarlos de forma perfecta, había que ajustar una variable a mano en cada caso (plano xy - xz o yz) pero como ya se menciono, falto poder computacional para llevar esto a cabo.  
+
